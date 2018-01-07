@@ -39,7 +39,12 @@ public static void main(String[] args) {
 	        System.out.println ("Max Memory:   " + maxMem + " (" + (maxMem/megs) + " MiB)");
 	        System.out.println ("Free Memory:  " + freeMem + " (" + (freeMem/megs) + " MiB)");
 	    
-	
+	/*
+	 * 
+	 * 
+	 * 
+	 * 
+	 */
 	
 	
 }
