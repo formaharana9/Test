@@ -7,6 +7,7 @@ import java.util.TreeSet;
 public class MainClass {
  int a=9;
 	public static void main(String[] args) {
+
 		HashMap <Student, Integer> hm=new HashMap<>();
 		hm.put(new Student(10,"Sunil"), 1);
 		hm.put(new Student(20,"santosh"),2);
@@ -29,5 +30,12 @@ public class MainClass {
 		
 		
 	}//fsadfasfasdfasd
+
+		// TODO Auto-generated method stub
+System.out.println("hello");
+
+System.out.println("in new Branch1");
+	}
+
 
 }
