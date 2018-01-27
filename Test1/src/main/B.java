@@ -20,7 +20,7 @@ public class B extends A{
 	@Override
 	public void ma() throws ClassNotFoundException  {
 		
-	}
+	}//dsfaafafa
 	public static void main1(String[] args) throws IOException {
 		FileInputStream fis=new FileInputStream(new File("E://ss.jpg"));
 		ByteArrayOutputStream bos = new ByteArrayOutputStream();
